@@ -1,0 +1,16 @@
+
+# Javaの実行時に作られるファイル
+*.class
+
+# ビルド用フォルダ
+bin/
+build/
+out/
+target/
+
+# 一時ファイル
+*.log
+
+# Windowsの不要ファイル
+Thumbs.db
+  
